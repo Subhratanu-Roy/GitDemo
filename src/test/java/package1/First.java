@@ -22,6 +22,11 @@ public class First {
 		System.out.println("This is first class3");
 	}
 	
+	public void display4()
+	{
+		System.out.println("This is first class4");
+	}
+	
 	
 	
 	

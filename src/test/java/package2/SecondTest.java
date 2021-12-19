@@ -9,6 +9,12 @@ public class SecondTest {
 		public void demo() {
 			System.out.println("Second Test");
 		}
+@Test
+public void display2()
+{
+	System.out.println("This is Second class2");
+}
+
 	
 
 }
